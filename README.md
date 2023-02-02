@@ -5,8 +5,9 @@ Kasper Template website using Html and Css.
 ![image](https://user-images.githubusercontent.com/50213964/216339641-7fc283fe-b5d2-4877-965d-ccee6f9e16e7.png)
 ![image](https://user-images.githubusercontent.com/50213964/216339693-2da4051b-44d4-4dfc-905a-ec47cb66e3d6.png)
 ![image](https://user-images.githubusercontent.com/50213964/216339760-9dfd30d0-ba49-4aba-9c13-8e18a86fc565.png)
-![image](https://user-images.githubusercontent.com/50213964/216339863-dd8b39b7-bccb-4452-8fd6-1c0fd49fb972.png)
+![image](https://user-images.githubusercontent.com/50213964/216341073-490f53dd-222e-4ee8-ae7a-a74d6ad6fd4f.png)
 ![image](https://user-images.githubusercontent.com/50213964/216340037-ecd68313-3d87-4b1e-9de1-4bb948ff1873.png)
-![image](https://user-images.githubusercontent.com/50213964/216340092-1d9207c1-2cee-4de2-a53a-f4399ccaf987.png)
-![image](https://user-images.githubusercontent.com/50213964/216340262-48d29532-8e75-45f1-b421-916f9cfc4b61.png)
-![image](https://user-images.githubusercontent.com/50213964/216340316-517b4c06-aea6-4970-80ee-3548378e3bc5.png)
+![image](https://user-images.githubusercontent.com/50213964/216340844-d1b48d6e-d4e4-4842-9879-49430c772a03.png)
+![image](https://user-images.githubusercontent.com/50213964/216340744-b25a6426-1694-4d3c-822c-d2037afa6691.png)
+![image](https://user-images.githubusercontent.com/50213964/216340910-96c0c983-463f-4d86-959a-a4641f6701f5.png)
+
